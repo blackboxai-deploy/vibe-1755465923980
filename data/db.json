@@ -1,0 +1,189 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "artcreator",
+      "displayName": "Art Creator",
+      "avatar": "https://placehold.co/100x100?text=AC",
+      "bio": "AI art enthusiast creating stunning visuals",
+      "joinDate": "2024-01-15",
+      "followers": 1250,
+      "following": 350
+    },
+    {
+      "id": "2",
+      "username": "digitalartist",
+      "displayName": "Digital Artist",
+      "avatar": "https://placehold.co/100x100?text=DA",
+      "bio": "Exploring the boundaries of AI-generated art",
+      "joinDate": "2024-02-10",
+      "followers": 890,
+      "following": 420
+    },
+    {
+      "id": "3",
+      "username": "promptmaster",
+      "displayName": "Prompt Master",
+      "avatar": "https://placehold.co/100x100?text=PM",
+      "bio": "Crafting the perfect prompts for AI magic",
+      "joinDate": "2024-03-05",
+      "followers": 2100,
+      "following": 180
+    }
+  ],
+  "posts": [
+    {
+      "id": "meg6z9syhtu9gfndg0j",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "prompt": "tesla car",
+      "imageUrl": "https://replicate.delivery/xezq/XbzJq00O0zo5NFUnF5y4WO6xmkCsbqRL5ETRrMzMTDMC6flKA/tmpk8l24uvf.webp",
+      "createdAt": "2025-08-17T21:22:24.994Z",
+      "likes": 1,
+      "likedBy": [
+        "1"
+      ],
+      "comments": [
+        {
+          "id": "meg6zsg64ac3f129el5",
+          "postId": "meg6z9syhtu9gfndg0j",
+          "authorId": "1",
+          "author": {
+            "id": "1",
+            "username": "artcreator",
+            "displayName": "Art Creator",
+            "avatar": "https://placehold.co/100x100?text=AC",
+            "bio": "AI art enthusiast creating stunning visuals",
+            "joinDate": "2024-01-15",
+            "followers": 1250,
+            "following": 350
+          },
+          "content": "good one",
+          "createdAt": "2025-08-17T21:22:49.158Z",
+          "likes": 0,
+          "replies": []
+        }
+      ],
+      "shares": 0,
+      "tags": []
+    },
+    {
+      "id": "meg6zpzrh28chloeevf",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "prompt": "A majestic dragon flying over a magical forest",
+      "imageUrl": "https://replicate.delivery/xezq/mAQUHCkR6t7aMhQifOAHxbvUgfKXs6uAkFw1BflmMVt6QfvUB/tmpzuj2vg71.webp",
+      "caption": "Testing the AI art generation!",
+      "createdAt": "2025-08-17T21:22:45.975Z",
+      "likes": 0,
+      "likedBy": [],
+      "comments": [],
+      "shares": 0,
+      "tags": [
+        "fantasy",
+        "dragon",
+        "magical"
+      ]
+    },
+    {
+      "id": "meg70wox75jlbrmxkwt",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "prompt": "navy seal doing CQC",
+      "imageUrl": "https://replicate.delivery/xezq/b9u9PCnHgvZJHZhuJ9TrNZl4sqF412erNOBq0dXBZaKq0fLVA/tmpnt6jqqk6.webp",
+      "createdAt": "2025-08-17T21:23:41.313Z",
+      "likes": 0,
+      "likedBy": [],
+      "comments": [],
+      "shares": 0,
+      "tags": []
+    },
+    {
+      "id": "meg71r1qdcj5wajyczs",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "prompt": "navy seals jumping from a helo",
+      "imageUrl": "https://replicate.delivery/xezq/mJeaG4LHi3UEFSVJBqmAQE2M9nveByS0Kh9D5C8Zv1e4TfvUB/tmpd4xf7b3f.webp",
+      "createdAt": "2025-08-17T21:24:20.654Z",
+      "likes": 0,
+      "likedBy": [],
+      "comments": [],
+      "shares": 0,
+      "tags": []
+    },
+    {
+      "id": "meg72vwhlye8bwrp1z",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "prompt": "tesla car next spacex rocket",
+      "imageUrl": "https://replicate.delivery/xezq/NQjoYcte88yNXCwNCDz2yUY8nRIuyBckApMSBAWm4XsY1fLVA/tmp86o4bicf.webp",
+      "createdAt": "2025-08-17T21:25:13.601Z",
+      "likes": 0,
+      "likedBy": [],
+      "comments": [],
+      "shares": 0,
+      "tags": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "meg6zsg64ac3f129el5",
+      "postId": "meg6z9syhtu9gfndg0j",
+      "authorId": "1",
+      "author": {
+        "id": "1",
+        "username": "artcreator",
+        "displayName": "Art Creator",
+        "avatar": "https://placehold.co/100x100?text=AC",
+        "bio": "AI art enthusiast creating stunning visuals",
+        "joinDate": "2024-01-15",
+        "followers": 1250,
+        "following": 350
+      },
+      "content": "good one",
+      "createdAt": "2025-08-17T21:22:49.158Z",
+      "likes": 0,
+      "replies": []
+    }
+  ]
+}
